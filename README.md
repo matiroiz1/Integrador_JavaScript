@@ -24,7 +24,8 @@ Búsqueda de productos.
 
 # Uso
 
-# Buscar un ProductoEscribe el nombre del producto en el campo de búsqueda y haz clic en el botón Buscar.
+# Buscar un Producto
+Escribe el nombre del producto en el campo de búsqueda y haz clic en el botón Buscar.
 La aplicación mostrará productos coincidentes con la búsqueda.
 # Agregar o Modificar un Producto
 Haz clic en el botón Agregar Elemento. Esto abrirá un modal emergente.
