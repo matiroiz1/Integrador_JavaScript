@@ -5,6 +5,11 @@ La interfaz está diseñada para ser responsiva y funcional en diferentes dispos
 
 El proyecto utiliza HTML, CSS, y JavaScript para manejar la interfaz y LocalStorage para persistencia de datos en el navegador.
 
+# Ejecución
+Debe tener instalado Node js, luego abrir la terminal el VS Code con el proyecto abierto.
+Luego deve instalar todas las dependencias mediante el comando npm install.
+Una vez instaladas las dependecias colocar en la terminal npm run dev y abrir el link en un navegador.
+
 # Características
 Búsqueda de productos.
 
